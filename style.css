@@ -1,0 +1,35 @@
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 50px;
+    text-align: center;
+    margin: 0;
+    background-color: rgb(255, 187, 238);
+    color: aliceblue;
+    margin-bottom: 2%;
+}
+
+label, input{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    margin: 1%;
+    text-align: center;
+    color: white;
+}
+
+input{
+    background-color: white;
+    color: rgb(161, 161, 161);
+}
+main{
+    display: grid;
+    grid-template-columns: 30% 1fr 30%;
+}
+
+form{
+    background-color:  rgb(248, 145, 222);
+    border-radius: 20px;
+}
+
+body{
+    background-color: rgb(255, 223, 247);
+}
