@@ -1,0 +1,54 @@
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th,
+td {
+    text-align: left;
+    padding: 8px;
+}
+
+table,
+tr,
+td,
+th {
+    border: 1px solid  rgb(255, 176, 248)
+}
+
+td,
+th {
+    color: rgb(255, 255, 255);
+}
+
+th {
+    background-color: rgb(255, 0, 234);
+    color: rgb(255, 255, 255);
+}
+
+tr:nth-child(even) {
+    background-color:  rgb(255, 93, 242)
+}
+
+body{
+    background-color:  rgb(255, 200, 250);
+}
+table{
+    background-color:  rgb(255, 154, 247);
+}
+
+.dias{
+    background-color: rgb(255, 0, 234);
+}
+
+.dias:hover{
+    background-color:  rgb(255, 0, 234);
+}
+
+h1{
+    background-color:  rgb(255, 0, 234);;
+    color: white;
+    text-align: center;
+
+}
